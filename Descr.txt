@@ -1,0 +1,5 @@
+Bootstrap
+React
+React-router-dom
+Redux, Redux-logger, Redux-thunk
+React-yup, React-cool-form
